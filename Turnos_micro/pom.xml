@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>Turnos_micro</artifactId>
+    <artifactId>turnos_micro</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Turnos_micro</name>
-    <description>Turnos_micro</description>
+    <name>turnos_micro</name>
+    <description>turnos_micro</description>
     <url/>
     <licenses>
         <license/>
